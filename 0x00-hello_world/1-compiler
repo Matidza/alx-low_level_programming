@@ -1,1 +1,2 @@
-lk
+  1 #!/bin/bash
+  2 gcc -S $CFILE -o $CFILE.o
