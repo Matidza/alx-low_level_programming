@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
  * main - Entry point of the program
+ *
  * Description: This function prints the size of various types
- * on the computer it is compiled and run on.
+ * on the computer it is compiled and run on
+ *
  * Return: Always 1 (Success)
  */
 int main(void)
