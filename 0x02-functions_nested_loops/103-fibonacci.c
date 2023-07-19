@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - finds and prints the sum of the even-valued terms
- * followed by a new line
+ * main - Finds and prints the sum of the even-valued terms, followed by a new line
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -18,7 +18,7 @@ int main(void)
 	{
 		if (j < 4000000 && (j % 2) == 0)
 		{
-			sum = sum + j;
+			sum += j;
 		}
 		next = j + k;
 		j = k;
