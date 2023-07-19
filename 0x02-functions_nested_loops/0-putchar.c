@@ -1,6 +1,4 @@
-#include <stdio.h>
-#include <time.h>
-#include <stdlib.h>
+#include "main.h"
 /**
  * main - main block
  * Description: Get a random number and print the number
@@ -9,6 +7,14 @@
  */
 int main(void)
 {
-	printf("_putchar\n");
+	printf("_");
+	printf("p");
+	printf("u");
+	printf("t");
+	printf("c");
+	printf("h");
+	printf("a");
+	printf("r");
+	printf("\n");
 	return (0);
 }
