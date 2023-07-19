@@ -1,11 +1,14 @@
 #include "main.h"
 /**
- * main  - entry point checks for alphabetic character
- * description: the character to be checked
- * Return: Always 0 (success)
+ * print_sign - prints the sign of a number
+ * @n: the int to check
+ * Return: 1 and prints + if n is greater than zero
+ * 0 and prints 0 if n is zero
+ * -1 and prints - if n is less than zero
  */
 int _isalpha(int c)
 {
 	return ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'));
-	_putchar('\n');
+	_putchar("\n");
+	return (0);
 }

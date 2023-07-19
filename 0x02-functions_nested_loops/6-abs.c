@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - entry point compute the absolute value of an integer
+ * main - entry point compute the
  * Description: int type number
  * Return: absolute value of @n
  */
@@ -11,4 +11,5 @@ int _abs(int n)
 		return (n);
 	}
 	return (-n);
+	return (0);
 }
