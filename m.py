@@ -1,18 +1,14 @@
-#include <stdio.h>
-/**
- * main - Entry point of the program
- *
- * Description: This function prints the size of various types
- * on the computer it is compiled and run on.
- *
- * Return: Always 0 (Success)
- */
-int main(void)
-{
-	printf("Size of a char: %lu byte(s)\n", sizeof(char));
-	printf("Size of an int: %lu byte(S)\n", sizeof(int));
-	printf("Size of a long int: %lu byte(s)\n", sizeof(long int));
-	printf("Size of a long long int: %lu byte(s)\n", sizeof(long long int));
-	printf("Size of a float: %lu byte(s)\n", sizeof(float));
-	return (0);
-}
+void print_alphabet(void);
+void print_alphabet_x10(void);
+int main(void);
+int _islower(int c);
+int _isalpha(int c);
+int print_sign(int n);
+int _abs(int n);
+int print_last_digit(int n);
+int print_last_digit(int n);
+void times_table(void);
+int add(int x, int y);
+void print_times_table(int n);
+void print_to_98(int n);
+void print_times_table(int n);

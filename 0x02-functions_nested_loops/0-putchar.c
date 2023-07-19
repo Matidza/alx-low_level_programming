@@ -1,20 +1,14 @@
 #include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
 /**
- * main - Print "Holberton" followed by a new line.
- * Description: You are not allowed to include standard libraries.
+ * main - main block
+ * Description: Get a random number and print the number
+ * and if it is positive, negative, or zero
  * Return: 0
  */
 int main(void)
 {
-	char name[] = "_putchar";
-	int i = 0;
-
-	while (name[i] != '\0')
-	{
-		_putchar(name[i]);
-		i++;
-	}
-	_putchar('\n');
-
+	printf("_putchar\n");
 	return (0);
 }
