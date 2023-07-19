@@ -1,23 +1,20 @@
 #include "main.h"
-#include <stdio.h>
-#include <time.h>
-#include <stdlib.h>
+
 /**
- * main - main block
- * Description: Get a random number and print the number
- * and if it is positive, negative, or zero
- * Return: 0
+ * main -  prints _putchar, followed by a new line
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	printf("_");
-	printf("p");
-	printf("u");
-	printf("t");
-	printf("c");
-	printf("h");
-	printf("a");
-	printf("r");
-	printf("\n");
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
+
 	return (0);
 }
