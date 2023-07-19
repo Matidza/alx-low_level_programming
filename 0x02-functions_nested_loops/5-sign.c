@@ -23,5 +23,4 @@ int print_sign(int n)
 		return (0);
 	}
 	printf("\n");
-	return (0);
 }
