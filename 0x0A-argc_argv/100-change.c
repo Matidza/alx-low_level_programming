@@ -3,12 +3,15 @@
 #include "main.h"
 
 /**
- * main - prints the minimum number of coins to
- * make change for an amount of money
- * @argc: number of arguments
- * @argv: array of arguments
+ * main - Entry point
  *
- * Return: 0 (Success), 1 (Error)
+ * Description:
+ * Prints the minimum number of coins to make change for an amount of money.
+ *
+ * @argc: The number of command-line arguments (including the program name).
+ * @argv: An array of pointers to strings containing the arguments.
+ *
+ * Return: 0 if successful, 1 if there is an error.
  */
 int main(int argc, char *argv[])
 {
