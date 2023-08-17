@@ -1,3 +1,5 @@
+0x0E. C - STRUCTURES, TYPEDEF
+
 File: dog.h
 
 Define a new type struct dog with the following elements:
