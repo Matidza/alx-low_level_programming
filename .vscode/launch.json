@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": false,
-      "cwd": "/home/dlta/alx-low_level_programming",
-      "program": "/home/dlta/alx-low_level_programming/build/Debug/outDebug",
+      "externalConsole": true,
+      "cwd": "c:/alx-low_level_programming",
+      "program": "c:/alx-low_level_programming/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
