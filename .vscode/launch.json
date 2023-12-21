@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/alx-low_level_programming",
-      "program": "c:/alx-low_level_programming/build/Debug/outDebug",
+      "cwd": "c:/Alx-low_level_programming/0x1A-hash_tables",
+      "program": "c:/Alx-low_level_programming/0x1A-hash_tables/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
